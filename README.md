@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains the implementation of various ML algorithms.
+This repository contains the implementation of various ML algorithms and concepts.
